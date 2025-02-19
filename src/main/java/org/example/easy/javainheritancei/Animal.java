@@ -1,4 +1,4 @@
-package org.example.easy.javainheritanceI;
+package org.example.easy.javainheritancei;
 
 public class Animal {
 

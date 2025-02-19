@@ -1,4 +1,4 @@
-package org.example.easy.javainheritanceI;
+package org.example.easy.javainheritancei;
 
 public class Main {
     public static void main(String[] args) {
